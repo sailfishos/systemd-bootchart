@@ -1,0 +1,3 @@
+[submodule "systemd-bootchart"]
+	path = systemd-bootchart
+	url = https://git.sailfishos.org/mirror/systemd-bootchart.git
