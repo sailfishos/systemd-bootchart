@@ -6,7 +6,6 @@ License:        GPLv2+ and LGPLv2+
 URL:            https://github.com/systemd/systemd-bootchart
 Source0:        %{name}-%{version}.tar.bz2
 
-BuildRequires:  systemd
 BuildRequires:  pkgconfig(libsystemd) >= 221
 %{?systemd_requires}
 
